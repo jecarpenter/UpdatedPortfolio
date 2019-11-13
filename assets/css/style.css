@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #393f44;
+}
+
+.off-canvas-content {
+    background-color: #ededed;
+    padding-bottom: 15px;
+}
+
+#head2 {
+    background-color: #00659c;
+    color: #fcfcfc;
+
+}
+
+#my-info {
+    background-color: #292e34;
+    color: #ededed;
+}
+
+#contact {
+    color: white;
+}
+    /* background-image: url("../images/real_cf.png"); */
