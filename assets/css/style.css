@@ -22,4 +22,11 @@ body {
 #contact {
     color: white;
 }
-    /* background-image: url("../images/real_cf.png"); */
+
+/* background-image: url("../images/real_cf.png"); */
+.thumbnail {
+    max-width: 400;
+    max-height: 400;
+    width: 400;
+    height: 400;
+}
